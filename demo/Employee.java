@@ -2,9 +2,8 @@
 public class Employee {
 
 	private int salary;
-
-	private String name;
-	private String lastname;
+	private String name_1;
+	private String lastname_1;
 
 	public int getSalary() {
 		return salary;
