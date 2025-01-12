@@ -2,8 +2,7 @@
 public class Employee {
 
 	private int salary;
-	private String name_2;
-	private String lastname_2;
+	private String lastname_3;
 
 
 	public int getSalary() {
